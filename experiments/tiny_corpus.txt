@@ -1,0 +1,5 @@
+I love machine learning.
+I love deep learning.
+Machine learning is fun.
+Deep learning is powerful.
+I love building models from scratch.
